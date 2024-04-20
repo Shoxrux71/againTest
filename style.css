@@ -1,0 +1,7 @@
+.container{
+    display: flex;
+}
+.btn,
+#input{
+    height: 40px;
+}
